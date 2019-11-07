@@ -1,0 +1,7 @@
+{
+  "test_number": "2",
+  "ip_addr"    : "tcp://127.0.0.1",
+  "rep_port"   : "9014",
+  "pub_port"   : "9016",
+  "sleep_time" : "100"
+}

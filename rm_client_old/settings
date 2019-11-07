@@ -1,0 +1,4 @@
+[network]
+srv_ip=192.168.9.2, 192.168.9.3
+srv_port=6514
+gzip=false
